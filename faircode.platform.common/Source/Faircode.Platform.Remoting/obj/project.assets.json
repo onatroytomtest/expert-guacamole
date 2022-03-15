@@ -55,7 +55,7 @@
     "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.8",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "D:\\faircode.platform.common\\faircode.platform.common\\Source\\Faircode.Platform.Remoting\\Faircode.Platform.Remoting.csproj",
       "projectName": "Faircode.Platform.Remoting",

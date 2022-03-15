@@ -1,0 +1,9 @@
+D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Remoting\bin\Release\netcoreapp3.1\Faircode.Platform.Remoting.deps.json
+D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Remoting\bin\Release\netcoreapp3.1\Faircode.Platform.Remoting.dll
+D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Remoting\bin\Release\netcoreapp3.1\Faircode.Platform.Remoting.pdb
+D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Remoting\obj\Release\netcoreapp3.1\Faircode.Platform.Remoting.csprojAssemblyReference.cache
+D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Remoting\obj\Release\netcoreapp3.1\Faircode.Platform.Remoting.AssemblyInfoInputs.cache
+D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Remoting\obj\Release\netcoreapp3.1\Faircode.Platform.Remoting.AssemblyInfo.cs
+D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Remoting\obj\Release\netcoreapp3.1\Faircode.Platform.Remoting.csproj.CoreCompileInputs.cache
+D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Remoting\obj\Release\netcoreapp3.1\Faircode.Platform.Remoting.dll
+D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Remoting\obj\Release\netcoreapp3.1\Faircode.Platform.Remoting.pdb

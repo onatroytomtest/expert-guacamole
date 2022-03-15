@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Faircode.Platform.Data.Sql</id>
+    <version>1.0.0</version>
+    <authors>Dev-Faircode</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <copyright>Faircode</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.EntityFrameworkCore" version="3.1.3" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Data.Sql\bin\Release\netcoreapp3.1\Faircode.Platform.Data.Sql.dll" target="lib\netcoreapp3.1\Faircode.Platform.Data.Sql.dll" />
+  </files>
+</package>

@@ -1,19 +1,21 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <Company>https://faircode.co/</Company>
-    <Authors>Faircode-Dev</Authors>
-    <Version>1.0.0</Version>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>1.0.0.0</FileVersion>
-    <RepositoryUrl></RepositoryUrl>
-    <Copyright>Faircode</Copyright>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<Company>https://faircode.co/</Company>
+		<Authors>Faircode-Dev</Authors>
+		<Version>1.0.5</Version>
+		<AssemblyVersion>1.0.0.5</AssemblyVersion>
+		<FileVersion>1.0.0.5</FileVersion>
+		<RepositoryUrl></RepositoryUrl>
+		<Copyright>Faircode</Copyright>
+		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+		<Description>Api Framework</Description>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+	</ItemGroup>
 
 </Project>

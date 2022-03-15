@@ -1,0 +1,1 @@
+dotnet nuget push bin\release\Faircode.Platform.Api.Framework.1.0.4.nupkg -s "github"

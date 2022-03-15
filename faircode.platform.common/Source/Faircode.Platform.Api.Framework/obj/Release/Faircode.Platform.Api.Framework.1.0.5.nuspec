@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Faircode.Platform.Api.Framework</id>
+    <version>1.0.5</version>
+    <authors>Faircode-Dev</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Api Framework</description>
+    <copyright>Faircode</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Api.Framework\bin\Release\netcoreapp3.1\Faircode.Platform.Api.Framework.dll" target="lib\netcoreapp3.1\Faircode.Platform.Api.Framework.dll" />
+  </files>
+</package>

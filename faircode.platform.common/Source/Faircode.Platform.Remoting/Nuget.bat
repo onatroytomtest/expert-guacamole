@@ -1,1 +1,0 @@
-dotnet nuget push bin\release\Edifytalent.Platform.Remoting.1.0.8.nupkg -s "github"

@@ -1,1 +1,0 @@
-dotnet nuget push bin\release\Edifytalent.Platform.Data.Sql.1.0.4.nupkg -s "github"
