@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Faircode.Platform.Api.Framework</id>
+    <version>1.0.0</version>
+    <authors>Faircode-Dev</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <copyright>Faircode</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\bin\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.dll" target="lib\netcoreapp3.1\Faircode.Platform.Api.Framework.dll" />
+  </files>
+</package>

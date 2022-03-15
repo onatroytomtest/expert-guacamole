@@ -1,0 +1,9 @@
+E:\faircode.platform.common\Source\Faircode.Platform.Data.Sql\bin\Debug\netcoreapp3.1\Faircode.Platform.Data.Sql.deps.json
+E:\faircode.platform.common\Source\Faircode.Platform.Data.Sql\bin\Debug\netcoreapp3.1\Faircode.Platform.Data.Sql.dll
+E:\faircode.platform.common\Source\Faircode.Platform.Data.Sql\bin\Debug\netcoreapp3.1\Faircode.Platform.Data.Sql.pdb
+E:\faircode.platform.common\Source\Faircode.Platform.Data.Sql\obj\Debug\netcoreapp3.1\Faircode.Platform.Data.Sql.AssemblyInfoInputs.cache
+E:\faircode.platform.common\Source\Faircode.Platform.Data.Sql\obj\Debug\netcoreapp3.1\Faircode.Platform.Data.Sql.AssemblyInfo.cs
+E:\faircode.platform.common\Source\Faircode.Platform.Data.Sql\obj\Debug\netcoreapp3.1\Faircode.Platform.Data.Sql.csproj.CoreCompileInputs.cache
+E:\faircode.platform.common\Source\Faircode.Platform.Data.Sql\obj\Debug\netcoreapp3.1\Faircode.Platform.Data.Sql.dll
+E:\faircode.platform.common\Source\Faircode.Platform.Data.Sql\obj\Debug\netcoreapp3.1\Faircode.Platform.Data.Sql.pdb
+E:\faircode.platform.common\Source\Faircode.Platform.Data.Sql\obj\Debug\netcoreapp3.1\Faircode.Platform.Data.Sql.csprojAssemblyReference.cache

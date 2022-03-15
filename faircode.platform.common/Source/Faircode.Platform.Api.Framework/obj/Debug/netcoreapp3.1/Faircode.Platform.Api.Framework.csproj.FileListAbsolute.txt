@@ -1,0 +1,9 @@
+E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\bin\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.deps.json
+E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\bin\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.dll
+E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\bin\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.pdb
+E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\obj\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.csprojAssemblyReference.cache
+E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\obj\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.AssemblyInfoInputs.cache
+E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\obj\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.AssemblyInfo.cs
+E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\obj\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.csproj.CoreCompileInputs.cache
+E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\obj\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.dll
+E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\obj\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.pdb

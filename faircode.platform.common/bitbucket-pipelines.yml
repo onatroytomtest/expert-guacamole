@@ -1,0 +1,56 @@
+﻿#  Template publish .NET Core package to nuget.org
+
+#  This template allows you to publish your .NET Core package to nuget.org.
+#  The workflow allows running tests, code linting and security scans on feature branches (as well as master).
+#  The .NET Core package will be validated and published after the code is merged to master.
+
+# Prerequisites: $NUGET_SECRET_API_KEY setup as deployment variables.
+
+image: mcr.microsoft.com/dotnet/core/sdk:3.1
+
+pipelines:
+  default:
+    - parallel:
+        - step:
+            name: Build and Test
+            caches:
+              - dotnetcore
+            script:
+              - export SOLUTION_NAME=Edifytalent.Platform.Common
+              - export CONFIGURATION=Release
+              - REPORTS_PATH=./test-reports/build_${BITBUCKET_BUILD_NUMBER}
+              - dotnet restore ${SOLUTION_NAME}.sln
+              - dotnet build --no-restore ${SOLUTION_NAME}.sln --configuration ${CONFIGURATION}
+              - dotnet test --no-build ${SOLUTION_NAME}.sln --test-adapter-path:. --logger:"junit;LogFilePath=$REPORTS_PATH/junit.xml"
+       
+  branches:
+    master:
+    - parallel:
+        - step:
+            name: Build and Test
+            caches:
+              - dotnetcore
+            script:
+              - export SOLUTION_NAME=Edifytalent.Platform.Common
+              - export export CONFIGURATION=Release
+              - REPORTS_PATH=./test-reports/build_${BITBUCKET_BUILD_NUMBER}
+              - dotnet restore ${SOLUTION_NAME}.sln
+              - dotnet build --no-restore ${SOLUTION_NAME}.sln --configuration ${CONFIGURATION}
+              - dotnet test --no-build ${SOLUTION_NAME}.sln --test-adapter-path:. --logger:"junit;LogFilePath=$REPORTS_PATH/junit.xml"
+        - step:
+            name: Security Scan
+            script:
+              # Run a security scan for sensitive data.
+              # See more security tools at https://bitbucket.org/product/features/pipelines/integrations?&category=security
+              - pipe: atlassian/git-secrets-scan:0.4.3
+    - step:
+        name: Deploy to Production
+        deployment: Production
+        script:
+          - export SOLUTION_NAME=HelloProject
+          - export RELEASES_DIR="./releases"
+          - export NUPKG_VERSION=1.0.${BITBUCKET_BUILD_NUMBER}
+          # create nuget package
+          - dotnet pack ${SOLUTION_NAME}.sln --output ${RELEASES_DIR} --configuration Release -p:Version=${NUPKG_VERSION}
+          # publish package to nuget.org
+          - dotnet nuget push ${RELEASES_DIR}/HelloPipes.${NUPKG_VERSION}.nupkg --api-key ${NUGET_SECRET_API_KEY} --source https://nuget.pkg.github.com/edifytalent/index.json
