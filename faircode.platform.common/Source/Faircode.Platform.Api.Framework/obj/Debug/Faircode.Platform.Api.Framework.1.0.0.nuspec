@@ -14,6 +14,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="E:\faircode.platform.common\Source\Faircode.Platform.Api.Framework\bin\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.dll" target="lib\netcoreapp3.1\Faircode.Platform.Api.Framework.dll" />
+    <file src="D:\faircode.platform.common\faircode.platform.common\Source\Faircode.Platform.Api.Framework\bin\Debug\netcoreapp3.1\Faircode.Platform.Api.Framework.dll" target="lib\netcoreapp3.1\Faircode.Platform.Api.Framework.dll" />
   </files>
 </package>

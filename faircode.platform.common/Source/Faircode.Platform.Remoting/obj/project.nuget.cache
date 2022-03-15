@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TAYMcIzZLOdPQ+CwVQMnxyMfJj48RmXxMq14s0BcrNx4ak+M/MExnQKGX5winUxVSq53C5qfXppXZ5ndfkeUBw==",
+  "dgSpecHash": "rSyericxM7Lcf7hijLfPzeCaf/OrYgt6EgxtmL9lY/ujYSDKUH7CCWBvKfFTp7myyp0jVVPwbqYNNFXLnqLihQ==",
   "success": true,
-  "projectFilePath": "E:\\faircode.platform.common\\Source\\Faircode.Platform.Remoting\\Faircode.Platform.Remoting.csproj",
+  "projectFilePath": "D:\\faircode.platform.common\\faircode.platform.common\\Source\\Faircode.Platform.Remoting\\Faircode.Platform.Remoting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

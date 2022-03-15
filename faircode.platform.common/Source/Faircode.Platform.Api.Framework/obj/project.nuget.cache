@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n96X06BMr6Zcnr7tAZQSaGEgjoA7cj9vbFEDGVVMgUKNnFnuCx4spKKnZMS3gnx2tYhzfg7bKEEN8Z2idvbt9g==",
+  "dgSpecHash": "m3Tj6ss7Q5f5LAKUXFjZ5Zn2S6s9m+avPPy54HUpxxlzg01QrApz3IUulfox0umKWCyAAZjCf1c9Rd3ATejt/A==",
   "success": true,
-  "projectFilePath": "E:\\faircode.platform.common\\Source\\Faircode.Platform.Api.Framework\\Faircode.Platform.Api.Framework.csproj",
+  "projectFilePath": "D:\\faircode.platform.common\\faircode.platform.common\\Source\\Faircode.Platform.Api.Framework\\Faircode.Platform.Api.Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

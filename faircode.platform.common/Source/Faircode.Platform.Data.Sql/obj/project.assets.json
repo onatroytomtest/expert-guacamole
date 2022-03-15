@@ -1079,14 +1079,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\faircode.platform.common\\Source\\Faircode.Platform.Data.Sql\\Faircode.Platform.Data.Sql.csproj",
+      "projectUniqueName": "D:\\faircode.platform.common\\faircode.platform.common\\Source\\Faircode.Platform.Data.Sql\\Faircode.Platform.Data.Sql.csproj",
       "projectName": "Faircode.Platform.Data.Sql",
-      "projectPath": "E:\\faircode.platform.common\\Source\\Faircode.Platform.Data.Sql\\Faircode.Platform.Data.Sql.csproj",
+      "projectPath": "D:\\faircode.platform.common\\faircode.platform.common\\Source\\Faircode.Platform.Data.Sql\\Faircode.Platform.Data.Sql.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\faircode.platform.common\\Source\\Faircode.Platform.Data.Sql\\obj\\",
+      "outputPath": "D:\\faircode.platform.common\\faircode.platform.common\\Source\\Faircode.Platform.Data.Sql\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "E:\\faircode.platform.common\\NuGet.Config",
+        "D:\\faircode.platform.common\\faircode.platform.common\\NuGet.Config",
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

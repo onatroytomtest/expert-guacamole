@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DoC4FcBS8wnZDT9SwCK8+VRXU0TwQ7TLjsOm5UYqcEGNkgiT9eEMHYP0g4yqoKNLsd/lwGlRNLIxeKDxnd1oHw==",
+  "dgSpecHash": "9UDL47NXUQ1rden/zlwiv9A3Sp2nxOAuBTBJOR1IT1eWjGJrmSKDC0wND7yWXq7hW1E60+nDQ5Gp4+yyQWuKaw==",
   "success": true,
-  "projectFilePath": "E:\\faircode.platform.common\\Source\\Faircode.Platform.Data.Sql\\Faircode.Platform.Data.Sql.csproj",
+  "projectFilePath": "D:\\faircode.platform.common\\faircode.platform.common\\Source\\Faircode.Platform.Data.Sql\\Faircode.Platform.Data.Sql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
